@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0077B5&background=D1E5FF00&vCenter=true&random=false&width=950&lines=Hello+guys!+I'm+Bruna!+%F0%9F%98%83" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0077B5&background=D1E5FF00&vCenter=true&multiline=true&random=false&width=480&lines=Hello+guys!+I'm+Bruna!+%F0%9F%98%83" alt="Typing SVG" /></a></h1>
 
 <p>I'm 23 years old and I'm studying Computer Engineering. I've been working in the IT area for 5 years as a Support Analyst and I'm currently looking for an opportunity as a Full Stack developer.</p>
 
