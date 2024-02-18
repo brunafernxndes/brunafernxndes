@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/brunaafernandess" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="mailto:contatobrunafernands@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://brunafernxndes.github.io/profile/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-99454F?style=for-the-badge&logo=dev&logoColor=white"/></a>
+<a href="https://brunafernxndes.github.io/profile/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-99454F?style=for-the-badge&logo=dev&logoColor=white"/></a>
 
 <hr/>
 
